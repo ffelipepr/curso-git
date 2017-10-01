@@ -1,0 +1,8 @@
+Olá, pessoal.
+
+Estou testando o git para poder aprender
+
+Adicionando uma nova linha
+
+
+Adicionando mais uma linha para que o arquivo seja modificado
